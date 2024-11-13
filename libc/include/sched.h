@@ -197,8 +197,22 @@ int setns(int __fd, int __ns_type);
  *
  * Returns a non-negative CPU number on success and returns -1 and sets
  * `errno` on failure.
- */
-int sched_getcpu(void);
+ */ktrf9jpork9-jtrfpgok-rtjf]ur-of
+  ]jfpfkfopjpr0=fpk[vf\=0trjf
+rporehjtrofj90jirf9]rt-fi[krt]fu9r[dkr-9duhjifotk[j]9udjekwsplk3er0di=]
+rti-9[c]l[dre9u-i[]o[
+rtkif-i9]rt[flpk9u-i[rktf]-0=r]fk[tr-0fjp[fk9fukof[pfu9herd798uerid]lkurf9ji8[r]lrk9u80ifjopkf]jrf0jokr]9rtfopju87egdhidjerpodj[fpk[fg9-vjop
+[]gkfj9jfopfkf[ojh0fok[prjc9-ujopkfrtfhjipofkjhfjok[pr[-8hfuorpj90th9k0-yiojf0h89hr90jhifu9u0f8hjjyjhy9tu09jypojuijyt90jtpotjh0op-9u09opktrfitgf89kgh-iop9utfpoj
+
+ofhiojr
+f[jhfiojo[rf0ijtopftjrfgjifgjtopfg8fij[pykopkyghijitrfiojfitpojopgjiohgjtpjthiotpjijjotipjhtiojtijijopthih
+p
+fhifjot[fgijot
+o[o[jopofj[t
+[fjojof[jf[jfotjpo
+[tfjhijpkhj[jptofgkjhifjo
+tpj[fifjktfogpipo[j
+ophifgpojtfgphipfojhtfpojpfgotpkfpotjfgipojtpfjopgjhipfojtifgjtjf[oigjioghvtpjhg
 
 #ifdef __LP64__
 #define CPU_SETSIZE 1024
